@@ -1,5 +1,5 @@
-<head><link rel="icon" href="/favicon.ico"></head>
+<script>alert("a4");</script>
 
 # <center>daniel-barbu.cf<center>
 
-a3
+a4
