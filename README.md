@@ -13,5 +13,5 @@ a58
   @font-face {font-family:'Cooper Black'; src:url(CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(LucidaSansUnicode.woff);}
   body {font-family:"Lucida Sans Unicode";}
-  h1 {margin:0 !important;}
+  h1 {margin:0 !important;padding:0 !important;}
 </style>
