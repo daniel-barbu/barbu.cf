@@ -18,7 +18,7 @@ a62
   link.href="/favicon.png?";
   document.getElementsByTagName("head")[0].appendChild(link);
   document.getElementsByTagName("h1")[0].remove();
-  if(window.screen.height>window.screen.width) {document.getElementById("flagCounter").src="";}
+  if(window.screen.height>window.screen.width) {document.getElementById("flagCounter").remove();}
 </script>
 <style>
   @font-face {font-family:'Cooper Black'; src:url(CooperBlack2.woff);}
