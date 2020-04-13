@@ -18,7 +18,7 @@ a62
   link.href="/favicon.png?";
   document.getElementsByTagName("head")[0].appendChild(link);
   document.getElementsByTagName("h1")[0].remove();
-  if(window.screen.height>window.screen.width) {document.getElementById("flagCounter").src="https://s05.flagcounter.com/count/b59h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_4/viewers_0/labels_1/pageviews_0/flags_0/percent_0/";}
+  if(window.screen.height>window.screen.width) {document.getElementById("flagCounter").src="https://s05.flagcounter.com/count/b59h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_10/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/";}
 </script>
 <style>
   @font-face {font-family:'Cooper Black'; src:url(CooperBlack2.woff);}
