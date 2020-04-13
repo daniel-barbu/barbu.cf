@@ -4,7 +4,7 @@
 <img id="flagCounter" src="https://s05.flagcounter.com/count/b59h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_2/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" border="0" align="right" style="padding-top:5px">
 
 <span style="line-height:0;">
-  <ul><li><span style="font-size:140%;">* Bine ati venit pe site-ul meu!</span></li></ul>  
+  <ul><li><span style="font-size:140%;">Bine ati venit pe site-ul meu!</span></li></ul>  
   Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.
 </span>
 <h1></h1>
