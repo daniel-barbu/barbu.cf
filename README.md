@@ -1,6 +1,6 @@
 x
 
-<center><img src="/favicon.png?" width="100px"></center>  
+
 
 # <center style="font-family:'Cooper Black'">daniel-barbu.cf</center>
 
