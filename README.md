@@ -7,10 +7,10 @@
   Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.
 </span>
 
-<img src="https://s05.flagcounter.com/count/b59h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_5/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" align="right" style="padding-top:5px">
+<img src="https://s05.flagcounter.com/count/b59h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_3/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" align="top" style="padding-top:5px">
 <h1></h1>
 
-a61
+a62
 
 <script>
   var link=document.createElement("link");
