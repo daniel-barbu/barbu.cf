@@ -1,6 +1,5 @@
+<center><img src="/favicon.png?" width="20%"></center>  
 # <center style="font-family:'Cooper Black'">daniel-barbu.cf</center>
-
-<a href="https://info.flagcounter.com/b59h"><img src="https://s05.flagcounter.com/count/b59h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_5/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" align="right" style="padding-top:2px"></a>
 
 <img src="/favicon.png?" width="1.6%"> 
 <span style="font-size:140%;">Bine ati venit pe site-ul meu!</span>  
@@ -8,7 +7,7 @@
 
 <h1> </h1>
 
-a46
+a47
 
 <script>
   var link=document.createElement("link");
