@@ -6,6 +6,9 @@
 Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.</span>
 <h1> </h1>
 
-a35
+a36
 
 <script>var link=document.createElement("link"); link.rel="icon"; link.href="/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);</script>
+<style>@font-face {font-family:'Cooper Black'; src:url(CooperBlack.woff);}
+@font-face {font-family:'Lucida Sans Unicode'; src:url(LucidaSansUnicode.woff);}
+</style>
