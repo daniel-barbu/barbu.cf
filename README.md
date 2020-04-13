@@ -4,8 +4,8 @@
 
 
 <span style="line-height:0; font-family:'Lucida Sans Unicode','Lucida Grande',sans-serif"><img src="/favicon.png?" style="width:1.6%;"> <span style="font-size:140%;">Bine ati venit pe site-ul meu!</span>  
-Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.</span><h1/>
+Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.</span><h1></h1>
 
-a33
+a34
 
 <script>var link=document.createElement("link"); link.rel="icon"; link.href="/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);</script>
