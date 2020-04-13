@@ -10,7 +10,7 @@
 </span>
 <h1></h1>
 
-a62
+sincer dupa o zi de munca numai pt asta nu mai am chef sa termin
 
 <script>
   var link=document.createElement("link");
