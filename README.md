@@ -1,12 +1,13 @@
 <div style="text-align:center;"><img src="/favicon.png?" width="100px"></div>
 <h1 style="font-family:'Cooper Black';text-align:center;">daniel-barbu.cf</h1>
 
-
-<span style="font-size:140%;">➪Bine ati venit pe site-ul meu!</span>  
-<span style="line-height:0;">Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.</span>
-<h1></h1>
-
 `sincer dupa o zi de munca numai pt asta nu mai am chef sa termin`
+
+<!--
+<span style="font-size:140%;">➪Bine ati venit pe site-ul meu!</span>  
+Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.
+<h1></h1>
+-->
 
 <script>
   var link=document.createElement("link");
