@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <a href="https://github.com/daniel-barbu/"><img src="/img/favicon.png/" width="100px"></a>
+  <a href="https://github.com/daniel-barbu/"><img src="/img/favicon.png?" width="100px"></a>
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
@@ -21,8 +21,8 @@ Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti ca
 -->
 
 <script>
-  var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png/"; document.getElementsByTagName("head")[0].appendChild(link);
-  //document.getElementsByTagName("h1")[0].remove();
+  var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
+  document.getElementsByTagName("h1")[0].remove();
 </script>
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
