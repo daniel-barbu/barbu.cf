@@ -11,9 +11,9 @@
 * [Lorem](https://lipsum.com/)
 * [Ipsum](https://lipsum.com/)
 * fisiere imp
-  * [pdfus](https://github.com/daniel-barbu/miniclip-8BallPool-trainer/)
-  * [foarte important atentie maxim!!!](https://www.dorianpopa.ro/)
-  * [poze xxx](https://daniel-barbu.cf/img/favicon.png/)
+  * [pdfus](https://github.com/)
+  * [foarte important atentie maxim!!!](https://daniel-barbu.cf/img/favicon.png/)
+  * [poze xxx](https://gomagcdn.ro/domains/dorianpopa.ro/files/banner/diverse6075.png/)
   
 
 <h1></h1>  
