@@ -4,7 +4,9 @@
 * [github repositories](https://github.com/daniel-barbu?tab=repositories)
 
 <h1></h1>  
-[source code](https://github.com/daniel-barbu/daniel-barbu.cf)
+|[source code](https://github.com/daniel-barbu/daniel-barbu.cf)|  |
+|---|---|
+||  |
 
 
 <!--
@@ -23,7 +25,7 @@ Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti ca
 <style>
   @font-face {font-family:'Cooper Black'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
-  body {font-family:"Lucida Sans Unicode";}
-  h1 {margin:0 !important;padding:0 !important;}
+  body,a {font-family:"Lucida Sans Unicode";}
+  <!--h1 {margin:0 !important;padding:0 !important;}-->
 </style>
  
