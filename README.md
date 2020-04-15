@@ -11,7 +11,7 @@
 * fisiere imp
   * [pdf-test](/capitol-daewoo-tico.pdf/)
   * [png-test](/cover.png/)
-  * [pdf3-test](/capitol-daewoo-tico.pdf/)
+  * [pdf2-test](/excel.pdf/)
 <h1></h1>
 
 <!--
