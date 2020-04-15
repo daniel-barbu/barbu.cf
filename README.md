@@ -9,9 +9,9 @@
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop/)
   * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf/)
 * fisiere imp
-  * [pdf-test](/capitol-daewoo-tico.pdf/)
-  * [png-test](/cover.png/)
-  * [pdf2-test](/excel.pdf/)
+  * [pdf-test](/files/capitol-daewoo-tico.pdf/)
+  * [png-test](/files/cover.png/)
+  * [pdf2-test](/files/excel.pdf/)
 <h1></h1>
 
 <!--
