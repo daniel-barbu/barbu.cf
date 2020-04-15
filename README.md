@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-barbu/"><img src="/img/favicon.png?" width="100px"></a>
+  <a href="https://github.com/daniel-barbu/"><img src="/img/favicon.png?" width="100px"></a>
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
