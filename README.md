@@ -9,7 +9,6 @@
   * [daniGameIdler](https:\/github.com/daniel-barbu/daniGameIdler)
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
-  * [mc](https://github.com/daniel-barbu/mc)
 * fisiere imp
   * [pdf-test](/files/capitol-daewoo-tico.pdf)
   * [png-test](/files/cover.png)
