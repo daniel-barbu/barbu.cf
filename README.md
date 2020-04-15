@@ -1,6 +1,6 @@
 <div style="text-align:center;">
   <img src="/img/favicon.png?" width="100px">
-  <h1 style="font-family:'Cooper Black';">daniel-barbu.cf</h1>
+  <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
 * [github repositories](https://github.com/daniel-barbu?tab=repositories)
@@ -25,9 +25,8 @@ Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti ca
   document.getElementsByTagName("h1")[0].remove();
 </script>
 <style>
-  @font-face {font-family:'Cooper Black'; src:url(/fonts/CooperBlack2.woff);}
+  @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
   body,a {font-family:"Lucida Sans Unicode";}
-  <!--h1 {margin:0 !important;padding:0 !important;}-->
 </style>
  
