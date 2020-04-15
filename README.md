@@ -3,12 +3,19 @@
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
-* [github repositories](https://github.com/daniel-barbu?tab=repositories)
+* [github repositories](https://github.com/daniel-barbu?tab=repositories/)
+  * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf/)
+  * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer/)
+  * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler/)
+  * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop/)
+* [a2 asdbhiyasgdiwd89an98dn281](https://github.com/daniel-barbu?tab=repositories/)
+* [a3 d0asjdh1ud89u189dma9u821d](https://github.com/daniel-barbu?tab=repositories/)
+* [a4 sjd831890dnai7dy7891d9ad2](https://github.com/daniel-barbu?tab=repositories/)
 
 <h1></h1>  
 
-|[source code](https://github.com/daniel-barbu/daniel-barbu.cf)|
-|---:|
+|[source code](https://github.com/daniel-barbu/daniel-barbu.cf/)|  |
+|---:||---:|
 
 
 <!--
@@ -27,6 +34,6 @@ Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti ca
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
-  body,a {font-family:"Lucida Sans Unicode";}
+  body {font-family:"Lucida Sans Unicode";}
 </style>
  
