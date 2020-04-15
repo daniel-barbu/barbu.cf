@@ -1,12 +1,14 @@
-<div style="text-align:center;"><img src="/img/favicon.png?" width="100px"></div>
-<h1 style="font-family:'Cooper Black';text-align:center;">daniel-barbu.cf</h1>
+<div style="text-align:center;">
+  <img src="/img/favicon.png?" width="100px">
+  <h1 style="font-family:'Cooper Black';">daniel-barbu.cf</h1>
+</div>
 
 * [github repositories](https://github.com/daniel-barbu?tab=repositories)
 
 <h1></h1>  
-|[source code](https://github.com/daniel-barbu/daniel-barbu.cf)|  |
-|---|---|
-||  |
+
+|[source code](https://github.com/daniel-barbu/daniel-barbu.cf)|
+|---:|
 
 
 <!--
