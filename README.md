@@ -1,17 +1,17 @@
 <div style="text-align:center;">
-  <a href="https://github.com/daniel-barbu/"><img src="/img/favicon.png?" width="100px"></a>
+  <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
 * github repos
-  * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer/)
-  * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler/)
-  * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop/)
-  * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf/)
+  * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer)
+  * [daniGameIdler](https:\/github.com/daniel-barbu/daniGameIdler)
+  * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
+  * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf)
 * fisiere imp
-  * [pdf-test](/files/capitol-daewoo-tico.pdf/)
-  * [png-test](/files/cover.png/)
-  * [pdf2-test](/files/excel.pdf/)
+  * [pdf-test](/files/capitol-daewoo-tico.pdf)
+  * [png-test](/files/cover.png)
+  * [pdf2-test](/files/excel.pdf)
 <h1></h1>
 
 <!--
