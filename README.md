@@ -3,7 +3,7 @@
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
-* github repositories
+* github repos
   * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer/)
   * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler/)
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop/)
