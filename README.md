@@ -8,15 +8,17 @@
   * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler/)
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop/)
   * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf/)
-* [Lorem](https://github.com/daniel-barbu?tab=repositories/)
-* [Ipsum](https://github.com/daniel-barbu?tab=repositories/)
-* [a4 sjd831890dnai7dy7891d9ad2](https://github.com/daniel-barbu?tab=repositories/)
+* [Lorem](https://lipsum.com/)
+* [Ipsum](https://lipsum.com/)
+* fisiere imp
+  * [pdfus](https://github.com/daniel-barbu/miniclip-8BallPool-trainer/)
+  * [foarte important atentie maxim!!!](https://www.dorianpopa.ro/)
+  * [poze xxx](https://daniel-barbu.cf/img/favicon.png/)
+  
 
 <h1></h1>  
 
-|[source code](https://github.com/daniel-barbu/daniel-barbu.cf/)|  |
-|---:||---:|
-|   |  |
+
 
 
 <!--
