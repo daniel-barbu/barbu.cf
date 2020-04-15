@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <a href="https://github.com/daniel-barbu/"><img src="/img/favicon.png?" width="100px"></a>
+  <a href="https://github.com/daniel-barbu/"><img src="/img/favicon.png/" width="100px"></a>
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
@@ -8,16 +8,11 @@
   * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler/)
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop/)
   * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf/)
-* [Lorem](https://lipsum.com/)
-* [Ipsum](https://lipsum.com/)
 * fisiere imp
-  * [pdfus](/capitol-daewoo-tico.pdf/)
-  * [foarte important atentie maxim!!!](https://daniel-barbu.cf/img/favicon.png)
-  * [poze xxx](https://gomagcdn.ro/domains/dorianpopa.ro/files/banner/diverse6075.png/)
-<h1></h1>  
-
-
-
+  * [pdf-test](/capitol-daewoo-tico.pdf/)
+  * [png-test](/cover.png/)
+  * [pdf3-test](/capitol-daewoo-tico.pdf/)
+<h1></h1>
 
 <!--
 <span style="font-size:140%;">➪Bine ati venit pe site-ul meu!</span>  
@@ -26,11 +21,8 @@ Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti ca
 -->
 
 <script>
-  var link=document.createElement("link");
-  link.rel="icon";
-  link.href="/img/favicon.png?";
-  document.getElementsByTagName("head")[0].appendChild(link);
-  document.getElementsByTagName("h1")[0].remove();
+  var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png/"; document.getElementsByTagName("head")[0].appendChild(link);
+  //document.getElementsByTagName("h1")[0].remove();
 </script>
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
