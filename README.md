@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  ![logo not loaded correctly](/img/favicon.png?)
+  ![logo not loaded correctly](https://daniel-barbu.cf/img/favicon.png)
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
