@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
+  [![logo not loaded correctly](/img/favicon.png?)](https://github.com/daniel-barbu)
   <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
 </div>
 
