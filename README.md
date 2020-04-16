@@ -15,12 +15,6 @@
   * [pdf2-test](/files/Excel.pdf)
 <h1></h1>
 
-<!--
-<span style="font-size:140%;">➪Bine ati venit pe site-ul meu!</span>  
-Numele meu este Daniel Barbu, am 15 ani si sunt din Bucuresti. Mai jos gasiti cateva dintre proiectele mele.
-<h1></h1>
--->
-
 <script>
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
   document.getElementsByTagName("h1")[0].remove();
