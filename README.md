@@ -17,7 +17,7 @@
 
 <script>
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
-  document.getElementsByTagName("title")[0]="daniel-barbu.cf";
+  document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
   document.getElementsByTagName("h1")[0].remove();
 </script>
 <style>
