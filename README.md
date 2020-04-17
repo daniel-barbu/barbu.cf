@@ -6,6 +6,7 @@
 * github repos
   * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf)
   * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer)
+  * [miniclip-8BallPool-maximizer](https://github.com/daniel-barbu/miniclip-8BallPool-maximizer)
   * [daniGameIdler](https:\/github.com/daniel-barbu/daniGameIdler)
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
