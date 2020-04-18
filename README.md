@@ -11,9 +11,7 @@
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
 * fisiere imp
-  * [pdf-test](/files/capitol-daewoo-tico.pdf)
-  * [png-test](/files/cover.png)
-  * [pdf2-test](/files/Excel.pdf)
+  * [pdf-PRINTER](/files/pdf-PRINTER.html)
 <h1></h1>
 
 <script>
