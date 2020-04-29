@@ -13,8 +13,6 @@
   * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
 * fisiere
   * [pdf-PRINTER](/files/pdf-PRINTER.html)
-* alte site-uri
-  * [test-site-1](https://www.wikipedia.org)
 <h1></h1>
 
 <script>
