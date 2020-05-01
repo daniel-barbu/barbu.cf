@@ -10,7 +10,7 @@
   * [daniGameIdler](https:\/github.com/daniel-barbu/daniGameIdler)
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
-  * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)...
+  * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
 * fisiere
   * [pdf-PRINTER](/files/pdf-PRINTER.html)
 <h1></h1>
