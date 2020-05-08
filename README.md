@@ -14,7 +14,7 @@
   * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
-  * [mc.daniel-barbu.cf](https://mc.daniel-barbu.cf)
+  * [mc.daniel-barbu.cf](https://mc.daniel-barbu.cf)...
 <h1></h1>
 
 <script>
