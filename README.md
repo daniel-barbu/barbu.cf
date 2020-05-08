@@ -15,9 +15,9 @@
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
 <h1></h1>
 
+<title>daniel-barbu.cf</title>
 <script>
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
-  document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
   document.getElementsByTagName("h1")[0].remove();
 </script>
 <style>
