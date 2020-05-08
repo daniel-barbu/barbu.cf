@@ -1,6 +1,6 @@
 <div style="text-align:center;">
   <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
-  <h1 style="font-family:'Cooper Black 2';">daniel-barbu.cf</h1>
+  <h1 style="font-family:'Cooper Black 2'; margin-top:0 !important;">daniel-barbu.cf</h1>
 </div>
 
 * github repos
@@ -25,7 +25,7 @@
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
-  body {font-family:"Lucida Sans Unicode";}
-  h1 {margin-top:0 !important;}
+  body {font-family:"Lucida Sans Unicode" !important; font-size:18px !important;}
+  a {color:#1E6BB8 !important;}
 </style>
  
