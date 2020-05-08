@@ -20,12 +20,13 @@
 <script>
   document.getElementsByTagName("h1")[0].remove();
   document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
+  document.getElementsByClassName("markdown-body")[0].style.fontFamily="Lucida Sans Unicode"
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
 </script>
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
-  body {font-family:"Lucida Sans Unicode" !important; font-size:18px !important;}
+  body {font-size:18px !important;}
   a {color:#1E6BB8 !important;}
 </style>
  
