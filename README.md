@@ -16,10 +16,11 @@
 <h1></h1>
 
 <title>daniel-barbu.cf</title>
+<link rel="icon" href="/img/favicon.png?">
 <script>
-  document.getElementsByTagName("h1")[0].remove();
-  document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
-  var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
+  //document.getElementsByTagName("h1")[0].remove();
+  //document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
+  //var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
 </script>
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
