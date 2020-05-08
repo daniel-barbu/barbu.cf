@@ -11,7 +11,7 @@
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
   * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
-  * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)...
+  * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
   * [mc.daniel-barbu.cf](https://mc.daniel-barbu.cf)
