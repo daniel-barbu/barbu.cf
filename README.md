@@ -11,8 +11,10 @@
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
   * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
-* fisiere
-  * [pdf-PRINTER](/files/pdf-PRINTER.html)
+* sub-domains
+  * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
+* files
+  * [test](/files/test.pdf)
 <h1></h1>
 
 <script>
