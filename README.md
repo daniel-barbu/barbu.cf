@@ -13,8 +13,6 @@
   * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
-* files
-  * [test](/files/test.pdf)
 <h1></h1>
 
 <script>
