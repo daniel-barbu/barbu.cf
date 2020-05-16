@@ -1,5 +1,5 @@
 <html><head><title>Test</title></head><html>
-y
+z
 <div style="text-align:center;">
   <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
   <h1 style="font-family:'Cooper Black 2'; margin-top:0 !important;">daniel-barbu.cf</h1>
