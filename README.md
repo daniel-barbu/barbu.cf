@@ -1,4 +1,4 @@
-<html><head><title>Test</title></head></html>
+<html><head><title>Test</title></head><html>
 y
 <div style="text-align:center;">
   <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
