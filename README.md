@@ -1,3 +1,5 @@
+<head><title>daniel-barbu.cf</title></head>
+x
 <div style="text-align:center;">
   <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
   <h1 style="font-family:'Cooper Black 2'; margin-top:0 !important;">daniel-barbu.cf</h1>
@@ -19,7 +21,7 @@
 
 <script>
   document.getElementsByTagName("h1")[0].remove();
-  document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
+  //document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
 </script>
 <style>
