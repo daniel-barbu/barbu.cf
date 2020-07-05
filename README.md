@@ -12,7 +12,7 @@
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
   * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
   * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)
-  * [cicker](https://github.com/daniel-barbu/cicker)
+  * [cicker.cf](https://github.com/daniel-barbu/cicker)
   * [VolumeKeys](https://github.com/daniel-barbu/VolumeKeys)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
