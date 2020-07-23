@@ -14,10 +14,12 @@
   * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)
   * [cicker.cf](https://github.com/daniel-barbu/cicker)
   * [VolumeKeys](https://github.com/daniel-barbu/VolumeKeys)
+  * [sf36ro](https://github.com/daniel-barbu/sf36ro)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
   * [mc.daniel-barbu.cf](https://mc.daniel-barbu.cf)
   * [cicker.daniel-barbu.cf](https://cicker.daniel-barbu.cf)
+  * [sf36.daniel-barbu.cf](https://sf36.daniel-barbu.cf)
 <h1></h1>
 
 <script>
