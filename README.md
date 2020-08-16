@@ -5,16 +5,19 @@
 
 * github repos
   * [daniel-barbu.cf](https://github.com/daniel-barbu/daniel-barbu.cf)
-  * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer)
-  * [miniclip-8BallPool-maximizer](https://github.com/daniel-barbu/miniclip-8BallPool-maximizer)
-  * [daniGameIdler](https:\/github.com/daniel-barbu/daniGameIdler)
-  * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [pdf-PRINTER](https://github.com/daniel-barbu/pdf-PRINTER)
-  * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
   * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)
   * [cicker.cf](https://github.com/daniel-barbu/cicker)
-  * [VolumeKeys](https://github.com/daniel-barbu/VolumeKeys)
   * [sf36ro](https://github.com/daniel-barbu/sf36ro)
+  
+  * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer)
+  * [miniclip-8BallPool-maximizer](https://github.com/daniel-barbu/miniclip-8BallPool-maximizer)
+  * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
+  
+  * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
+  * [VolumeKeys](https://github.com/daniel-barbu/VolumeKeys)
+  
+  * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
   * [mc.daniel-barbu.cf](https://mc.daniel-barbu.cf)
@@ -32,5 +35,5 @@
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
   .markdown-body {font-family:'Lucida Sans Unicode'; font-size:19px;}
   a {color:#1E6BB8 !important;}
+  ul {max-width:fit-content; padding-right:10px; border:1px solid;}
 </style>
- 
