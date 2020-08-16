@@ -41,5 +41,5 @@
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
   .markdown-body {font-family:'Lucida Sans Unicode'; font-size:19px;}
   a {color:#1E6BB8 !important;}
-  .ulBorder {max-width:fit-content; padding-right:10px; border:1px solid;}
+  .ulBorder {max-width:fit-content; padding-right:10px; border:1px solid; margin-bottom:3px;}
 </style>
