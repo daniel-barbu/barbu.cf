@@ -5,6 +5,7 @@
 
 <ul><li> github repos
   <ul class="ulBorder">
+    <div class="ulText">html</div>
     <li> <a href="https://github.com/daniel-barbu/daniel-barbu.cf">daniel-barbu.cf</a></li>
     <li> <a href="https://github.com/daniel-barbu/pdf-PRINTER">pdf-PRINTER</a></li>
     <li> <a href="https://github.com/daniel-barbu/fake-McDonalds-App">fake-McDonalds-App</a></li>
@@ -12,15 +13,18 @@
     <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>
   </ul>
   <ul class="ulBorder">
+    <div class="ulText">javascript</div>
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-trainer">miniclip-8BallPool-trainer</a></li>
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-maximizer">miniclip-8BallPool-maximizer</a></li>
     <li> <a href="https://github.com/daniel-barbu/youtube-videosInfoBackup">youtube-videosInfoBackup</a></li>
   </ul>
   <ul class="ulBorder">
+    <div class="ulText">autohotkey</div>
     <li> <a href="https://github.com/daniel-barbu/AlwaysOnTop">AlwaysOnTop</a></li>
     <li> <a href="https://github.com/daniel-barbu/VolumeKeys">VolumeKeys</a></li>
   </ul>
   <ul class="ulBorder">
+    <div class="ulText">batch</div>
     <li> <a href="https://github.com/daniel-barbu/daniGameIdler">daniGameIdler</a></li>
   </ul>
 </li></ul>
