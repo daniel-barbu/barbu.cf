@@ -4,7 +4,7 @@
 </div>
 
 <ul><li> github repos
-  <ul class="ulBorder" style="border-color:#E34C26">
+  <ul class="ulBorder" style="border-color:#E34C26; padding-right:5px;">
     <div class="ulText" style="color:#E34C26">html</div>
     <li> <a href="https://github.com/daniel-barbu/daniel-barbu.cf">daniel-barbu.cf</a></li>
     <li> <a href="https://github.com/daniel-barbu/pdf-PRINTER">pdf-PRINTER</a></li>
@@ -12,18 +12,18 @@
     <li> <a href="https://github.com/daniel-barbu/cicker">cicker.cf</a></li>
     <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>
   </ul>
-  <ul class="ulBorder" style="border-color:#F1E05A">
+  <ul class="ulBorder" style="border-color:#F1E05A; padding-right:40px;">
     <div class="ulText" style="color:#F1E05A">javascript</div>
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-trainer">miniclip-8BallPool-trainer</a></li>
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-maximizer">miniclip-8BallPool-maximizer</a></li>
     <li> <a href="https://github.com/daniel-barbu/youtube-videosInfoBackup">youtube-videosInfoBackup</a></li>
   </ul>
-  <ul class="ulBorder" style="border-color:#6594B9">
+  <ul class="ulBorder" style="border-color:#6594B9; padding-right:80px;">
     <div class="ulText" style="color:#6594B9">autohotkey</div>
     <li> <a href="https://github.com/daniel-barbu/AlwaysOnTop">AlwaysOnTop</a></li>
     <li> <a href="https://github.com/daniel-barbu/VolumeKeys">VolumeKeys</a></li>
   </ul>
-  <ul class="ulBorder" style="border-color:#C1F12E">
+  <ul class="ulBorder" style="border-color:#C1F12E; padding-right:50px;">
     <div class="ulText" style="color:#C1F12E">batch</div>
     <li> <a href="https://github.com/daniel-barbu/daniGameIdler">daniGameIdler</a></li>
   </ul>
@@ -45,6 +45,6 @@
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
   .markdown-body {font-family:'Lucida Sans Unicode'; font-size:19px;}
   a {color:#1E6BB8 !important;}
-  .ulBorder {max-width:fit-content; padding-right:80px; border:1px solid; border-radius:8px; margin-bottom:3px !important; position:relative;}
+  .ulBorder {max-width:fit-content; border:1px solid; border-radius:8px; margin-bottom:3px !important; position:relative;}
   .ulText {position:absolute; right:3px; font-size:small;}
 </style>
