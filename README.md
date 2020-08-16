@@ -9,14 +9,11 @@
   * [fake-McDonalds-App](https://github.com/daniel-barbu/fake-McDonalds-App)
   * [cicker.cf](https://github.com/daniel-barbu/cicker)
   * [sf36ro](https://github.com/daniel-barbu/sf36ro)
-  
   * [miniclip-8BallPool-trainer](https://github.com/daniel-barbu/miniclip-8BallPool-trainer)
   * [miniclip-8BallPool-maximizer](https://github.com/daniel-barbu/miniclip-8BallPool-maximizer)
   * [youtube-videosInfoBackup](https://github.com/daniel-barbu/youtube-videosInfoBackup)
-  
   * [AlwaysOnTop](https://github.com/daniel-barbu/AlwaysOnTop)
   * [VolumeKeys](https://github.com/daniel-barbu/VolumeKeys)
-  
   * [daniGameIdler](https://github.com/daniel-barbu/daniGameIdler)
 * sub-domains
   * [pdf.daniel-barbu.cf](https://pdf.daniel-barbu.cf)
