@@ -35,7 +35,7 @@
   * [sf36.daniel-barbu.cf](https://sf36.daniel-barbu.cf)
 <h1></h1>
 
-<meta name="viewport" content="width=1000; user-scalable=0;" />
+<meta name="viewport" content="width=device-width; user-scalable=0;" />
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
