@@ -48,7 +48,7 @@
   document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
   
-  document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+/*60+*/"px";
+  document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth*1.15+"px";
   document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
   document.getElementsByClassName("ulBorder")[2].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
   document.getElementsByClassName("ulBorder")[3].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
