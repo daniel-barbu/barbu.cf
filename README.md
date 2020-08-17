@@ -38,7 +38,7 @@
 <style>
   @font-face {font-family:'Cooper Black 2'; src:url(/fonts/CooperBlack2.woff);}
   @font-face {font-family:'Lucida Sans Unicode'; src:url(/fonts/LucidaSansUnicode.woff);}
-  .markdown-body {font-family:'Lucida Sans Unicode'; font-size:19px;}
+  .markdown-body {font-family:'Lucida Sans Unicode'; font-size:19px; max-width:max-content;}
   a {color:#1E6BB8 !important;}
   .ulBorder {width:fit-content; border:1px solid; border-radius:8px; margin-bottom:3px !important; position:relative;}
   .ulText {position:absolute; right:4px; font-size:small;}
