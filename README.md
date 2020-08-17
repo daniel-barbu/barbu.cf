@@ -53,4 +53,4 @@
   document.getElementsByClassName("ulBorder")[2].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
   document.getElementsByClassName("ulBorder")[3].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
 </script>
-<meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9, user-scalable=no" />
+<meta name="viewport" content="width=device-width, initial-scale=0.5, user-scalable=no" />
