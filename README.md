@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
+  <img src="/img/favicon.png?" width="100px" onclick="easterEgg()">
   <h1 style="font-family:'Cooper Black 2'; margin-top:0 !important;">daniel-barbu.cf</h1>
 </div>
 
