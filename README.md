@@ -29,7 +29,7 @@
   </ul>
 </li></ul>
 <ul><li> sub-domains
-  <ul class="ulBorder" style="border-color:black">
+  <ul class="ulBorder" style="border-color:#000000">
     <li> <a href="https://pdf.daniel-barbu.cf">pdf.daniel-barbu.cf</a></li>
     <li> <a href="https://mc.daniel-barbu.cf">mc.daniel-barbu.cf</a></li>
     <li> <a href="https://cicker.daniel-barbu.cf">cicker.daniel-barbu.cf</a></li>
@@ -49,10 +49,10 @@
   document.getElementsByTagName("h1")[0].remove();
   document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
-  
   document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth*1.2+"px";
   document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
   document.getElementsByClassName("ulBorder")[2].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
   document.getElementsByClassName("ulBorder")[3].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
+  document.getElementsByClassName("ulBorder")[4].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=0.85, user-scalable=no" />
