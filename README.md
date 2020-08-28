@@ -17,6 +17,7 @@
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-maximizer">miniclip-8BallPool-maximizer</a></li>
     <li> <a href="https://github.com/daniel-barbu/youtube-videosInfoBackup">youtube-videosInfoBackup</a></li>
     <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>
+    <li> <a href="https://github.com/daniel-barbu/youtube-smallerThumbnails">youtube-smallerThumbnails</a></li>
   </ul>
   <ul class="ulBorder" style="transform:skew(-10deg); border-color:#6594B9">
     <div class="ulText" style="color:#6594B9">autohotkey</div>
