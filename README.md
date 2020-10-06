@@ -30,7 +30,7 @@
     <li> <a href="https://github.com/daniel-barbu/daniGameIdler">daniGameIdler</a></li>
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#FFCB2C">
-    <div class="ulText" style="color:#C1F12E">firebase</div>
+    <div class="ulText" style="color:#FFCB2C">firebase</div>
     <li> <a href="https://github.com/daniel-barbu/firebaseTest">firebaseTest</a></li>
   </ul>
 </li></ul>
