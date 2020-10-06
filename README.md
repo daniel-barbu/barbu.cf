@@ -29,6 +29,10 @@
     <div class="ulText" style="color:#C1F12E">batch</div>
     <li> <a href="https://github.com/daniel-barbu/daniGameIdler">daniGameIdler</a></li>
   </ul>
+  <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#FFCB2C">
+    <div class="ulText" style="color:#C1F12E">firebase</div>
+    <li> <a href="https://github.com/daniel-barbu/firebaseTest">firebaseTest</a></li>
+  </ul>
 </li></ul>
 <ul><li> sub-domains
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#000000">
@@ -37,6 +41,7 @@
     <li> <a href="https://cicker.daniel-barbu.cf">cicker.daniel-barbu.cf</a></li>
     <li> <a href="https://sf36.daniel-barbu.cf">sf36.daniel-barbu.cf</a></li>
     <li> <a href="https://zoom.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
+    <li> <a href="https://daniel-barbu.github.io/firebaseTest/">daniel-barbu.github.io/firebaseTest</a></li>
   </ul>
 </li></ul>
 
@@ -54,8 +59,6 @@
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
   document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth*1.2+"px";
   document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
-  document.getElementsByClassName("ulBorder")[2].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
-  document.getElementsByClassName("ulBorder")[3].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
-  document.getElementsByClassName("ulBorder")[4].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
+  for (var i=2; i<document.getElementsByClassName("ulBorder").length; i++) document.getElementsByClassName("ulBorder")[i].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=0.85, user-scalable=no" />
