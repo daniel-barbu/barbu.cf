@@ -41,7 +41,6 @@
     <li> <a href="https://cicker.daniel-barbu.cf">cicker.daniel-barbu.cf</a></li>
     <li> <a href="https://sf36.daniel-barbu.cf">sf36.daniel-barbu.cf</a></li>
     <li> <a href="https://zoom.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
-    <li> <a href="https://daniel-barbu.github.io/firebaseTest/">daniel-barbu.github.io/firebaseTest</a></li>
   </ul>
 </li></ul>
 
