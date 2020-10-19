@@ -19,6 +19,7 @@
     <li> <a href="https://github.com/daniel-barbu/youtube-videosInfoBackup">youtube-videosInfoBackup</a></li>
     <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>
     <li> <a href="https://github.com/daniel-barbu/youtube-smallerThumbnails">youtube-smallerThumbnails</a></li>
+    <li> <a href="https://github.com/daniel-barbu/instagram-comments.json-formatter">instagram-comments.json-formatter</a></li>
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#6594B9">
     <div class="ulText" style="color:#6594B9">autohotkey</div>
@@ -40,7 +41,8 @@
     <li> <a href="https://mc.daniel-barbu.cf">mc.daniel-barbu.cf</a></li>
     <li> <a href="https://cicker.daniel-barbu.cf">cicker.daniel-barbu.cf</a></li>
     <li> <a href="https://sf36.daniel-barbu.cf">sf36.daniel-barbu.cf</a></li>
-    <li> <a href="https://zoom.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
+    <li> <a href="https://orar.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
+    <li> <a href="https://ig-formatter.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
   </ul>
 </li></ul>
 
