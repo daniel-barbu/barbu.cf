@@ -41,8 +41,8 @@
     <li> <a href="https://mc.daniel-barbu.cf">mc.daniel-barbu.cf</a></li>
     <li> <a href="https://cicker.daniel-barbu.cf">cicker.daniel-barbu.cf</a></li>
     <li> <a href="https://sf36.daniel-barbu.cf">sf36.daniel-barbu.cf</a></li>
-    <li> <a href="https://orar.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
-    <li> <a href="https://ig-formatter.daniel-barbu.cf">zoom.daniel-barbu.cf</a></li>
+    <li> <a href="https://orar.daniel-barbu.cf">orar.daniel-barbu.cf</a></li>
+    <li> <a href="https://ig-formatter.daniel-barbu.cf">ig-formatter.daniel-barbu.cf</a></li>
   </ul>
 </li></ul>
 
