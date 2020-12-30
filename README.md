@@ -35,8 +35,8 @@
     <div class="ulText" style="color:#FFCB2C">firebase</div>
     <li> <a href="https://github.com/daniel-barbu/firebaseTest">firebaseTest</a></li>
   </ul>
-  <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#659AD2">
-    <div class="ulText" style="color:#FFCB2C">c++</div>
+  <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#F34B7D">
+    <div class="ulText" style="color:#F34B7D">C++</div>
     <li> <a href="https://github.com/daniel-barbu/proiectInfo-AdministrareSpital">proiectInfo-AdministrareSpital</a></li>
   </ul>
 </li></ul>
