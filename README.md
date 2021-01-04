@@ -64,7 +64,7 @@
   document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
   //document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth*1.2+"px";
-  //document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
-  //for (var i=2; i<document.getElementsByClassName("ulBorder").length; i++) document.getElementsByClassName("ulBorder")[i].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
+  document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
+  for (var i=2; i<document.getElementsByClassName("ulBorder").length; i++) document.getElementsByClassName("ulBorder")[i].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=0.85, user-scalable=no" />
