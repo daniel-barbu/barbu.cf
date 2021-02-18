@@ -1,6 +1,6 @@
 <div style="text-align:center;">
   <a href="https://github.com/daniel-barbu"><img src="/img/favicon.png?" width="100px"></a>
-  <h1 style="font-family:'Cooper Black 2'; margin-top:0 !important;">daniel-barbu.cf</h1>
+  <h1 style="font-family:'Cooper Black 2'; margin-top:0 !important;">barbu.cf</h1>
 </div>
 
 <ul><li> github repos
@@ -42,12 +42,12 @@
 </li></ul>
 <ul><li> sub-domains
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#000000">
-    <li> <a href="https://pdf.daniel-barbu.cf">pdf.daniel-barbu.cf</a></li>
-    <li> <a href="https://mc.daniel-barbu.cf">mc.daniel-barbu.cf</a></li>
-    <li> <a href="https://cicker.daniel-barbu.cf">cicker.daniel-barbu.cf</a></li>
-    <li> <a href="https://sf36.daniel-barbu.cf">sf36.daniel-barbu.cf</a></li>
-    <li> <a href="https://orar.daniel-barbu.cf">orar.daniel-barbu.cf</a></li>
-    <li> <a href="https://ig-formatter.daniel-barbu.cf">ig-formatter.daniel-barbu.cf</a></li>
+    <li> <a href="https://pdf.barbu.cf">pdf.barbu.cf</a></li>
+    <li> <a href="https://mc.barbu.cf">mc.barbu.cf</a></li>
+    <li> <a href="https://cicker.barbu.cf">cicker.barbu.cf</a></li>
+    <li> <a href="https://sf36.barbu.cf">sf36.barbu.cf</a></li>
+    <li> <a href="https://orar.barbu.cf">orar.barbu.cf</a></li>
+    <li> <a href="https://ig-formatter.barbu.cf">ig-formatter.barbu.cf</a></li>
   </ul>
 </li></ul>
 
@@ -61,7 +61,7 @@
 </style>
 <script>
   document.getElementsByTagName("h1")[0].remove();
-  document.getElementsByTagName("title")[0].textContent="daniel-barbu.cf";
+  document.getElementsByTagName("title")[0].textContent="barbu.cf";
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
   //document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth*1.2+"px";
   document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
