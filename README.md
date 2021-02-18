@@ -6,7 +6,7 @@
 <ul><li> github repos
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#E34C26">
     <div class="ulText" style="color:#E34C26">html</div>
-    <li> <a href="https://github.com/daniel-barbu/daniel-barbu.cf">daniel-barbu.cf</a></li>
+    <li> <a href="https://github.com/daniel-barbu/barbu.cf">barbu.cf</a></li>
     <li> <a href="https://github.com/daniel-barbu/pdf-printer">pdf-printer</a></li>
     <li> <a href="https://github.com/daniel-barbu/mcdonalds-fakeApp">mcdonalds-fakeApp</a></li>
     <li> <a href="https://github.com/daniel-barbu/cicker.cf">cicker.cf</a></li>
