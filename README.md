@@ -30,6 +30,7 @@
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#C1F12E">
     <div class="ulText" style="color:#C1F12E">batch</div>
     <li> <a href="https://github.com/daniel-barbu/daniGameIdler">daniGameIdler</a></li>
+    <li> <a href="https://github.com/daniel-barbu/windows-restart-loop">windows-restart-loop</a></li>
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#FFCB2C">
     <div class="ulText" style="color:#FFCB2C">firebase</div>
