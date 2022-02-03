@@ -26,6 +26,7 @@
     <div class="ulText" style="color:#6594B9">autohotkey</div>
     <li> <a href="https://github.com/daniel-barbu/AlwaysOnTop">AlwaysOnTop</a></li>
     <li> <a href="https://github.com/daniel-barbu/VolumeKeys">VolumeKeys</a></li>
+    <li> <a href="https://github.com/daniel-barbu/FastScroll">FastScroll</a></li>
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#C1F12E">
     <div class="ulText" style="color:#C1F12E">batch</div>
