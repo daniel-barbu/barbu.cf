@@ -33,10 +33,10 @@
     <li> <a href="https://github.com/daniel-barbu/daniGameIdler">daniGameIdler</a></li>
     <li> <a href="https://github.com/daniel-barbu/windows-restart-loop">windows-restart-loop</a></li>
   </ul>
-  <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#FFCB2C">
-    <div class="ulText" style="color:#FFCB2C">firebase</div>
-    <li> <a href="https://github.com/daniel-barbu/firebaseTest">firebaseTest</a></li>
-  </ul>
+<!--    <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#FFCB2C">  -->
+<!--  <div class="ulText" style="color:#FFCB2C">firebase</div>  -->
+<!--  <li> <a href="https://github.com/daniel-barbu/firebaseTest">firebaseTest</a></li>  -->
+<!--    </ul>  -->
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#F34B7D">
     <div class="ulText" style="color:#F34B7D">C++</div>
 <!--  <li> <a href="https://github.com/daniel-barbu/proiectInfo-AdministrareSpital">proiectInfo-AdministrareSpital</a></li>  -->
