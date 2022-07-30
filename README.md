@@ -10,14 +10,14 @@
     <li> <a href="https://github.com/daniel-barbu/pdf-printer">pdf-printer</a></li>
     <li> <a href="https://github.com/daniel-barbu/mcdonalds-fakeApp">mcdonalds-fakeApp</a></li>
     <li> <a href="https://github.com/daniel-barbu/cicker.cf">cicker.cf</a></li>
-    <li> <a href="https://github.com/daniel-barbu/zoom-calendar">zoom-calendar11R2</a></li>
+<!--  <li> <a href="https://github.com/daniel-barbu/zoom-calendar">zoom-calendar11R2</a></li>  -->
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#F1E05A">
     <div class="ulText" style="color:#F1E05A">javascript</div>
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-trainer">miniclip-8BallPool-trainer</a></li>
     <li> <a href="https://github.com/daniel-barbu/miniclip-8BallPool-maximizer">miniclip-8BallPool-maximizer</a></li>
     <li> <a href="https://github.com/daniel-barbu/youtube-videosInfoBackup">youtube-videosInfoBackup</a></li>
-    <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>
+<!--  <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>  -->
     <li> <a href="https://github.com/daniel-barbu/youtube-smallerThumbnails">youtube-smallerThumbnails</a></li>
     <li> <a href="https://github.com/daniel-barbu/instagram-comments.json-formatter">instagram-comments.json-formatter</a></li>
     <li> <a href="https://github.com/daniel-barbu/4chan-mediaSaver">4chan-mediaSaver</a></li>
@@ -39,8 +39,8 @@
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#F34B7D">
     <div class="ulText" style="color:#F34B7D">C++</div>
-    <li> <a href="https://github.com/daniel-barbu/proiectInfo-AdministrareSpital">proiectInfo-AdministrareSpital</a></li>
-    <li> <a href="https://github.com/daniel-barbu/proiectInfo-ArboreGenealogic">proiectInfo-ArboreGenealogic</a></li>
+<!--  <li> <a href="https://github.com/daniel-barbu/proiectInfo-AdministrareSpital">proiectInfo-AdministrareSpital</a></li>  -->
+<!--  <li> <a href="https://github.com/daniel-barbu/proiectInfo-ArboreGenealogic">proiectInfo-ArboreGenealogic</a></li>  -->
   </ul>
 </li></ul>
 <ul><li> sub-domains
@@ -48,8 +48,8 @@
     <li> <a href="https://pdf.barbu.cf">pdf.barbu.cf</a></li>
     <li> <a href="https://mc.barbu.cf">mc.barbu.cf</a></li>
     <li> <a href="https://cicker.barbu.cf">cicker.barbu.cf</a></li>
-    <li> <a href="https://sf36.barbu.cf">sf36.barbu.cf</a></li>
-    <li> <a href="https://orar.barbu.cf">orar.barbu.cf</a></li>
+<!--  <li> <a href="https://sf36.barbu.cf">sf36.barbu.cf</a></li>  -->
+<!--  <li> <a href="https://orar.barbu.cf">orar.barbu.cf</a></li>  -->
     <li> <a href="https://ig-formatter.barbu.cf">ig-formatter.barbu.cf</a></li>
   </ul>
 </li></ul>
