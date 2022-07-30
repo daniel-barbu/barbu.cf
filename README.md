@@ -19,7 +19,7 @@
     <li> <a href="https://github.com/daniel-barbu/youtube-videosInfoBackup">youtube-videosInfoBackup</a></li>
 <!--  <li> <a href="https://github.com/daniel-barbu/sf36ro">sf36ro</a></li>  -->
     <li> <a href="https://github.com/daniel-barbu/youtube-smallerThumbnails">youtube-smallerThumbnails</a></li>
-    <li> <a href="https://github.com/daniel-barbu/instagram-comments.json-formatter">instagram-comments.json-formatter</a></li>
+<!--  <li> <a href="https://github.com/daniel-barbu/instagram-comments.json-formatter">instagram-comments.json-formatter</a></li>  -->
 <!--  <li> <a href="https://github.com/daniel-barbu/4chan-mediaSaver">4chan-mediaSaver</a></li>  -->
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#6594B9">
@@ -50,7 +50,7 @@
     <li> <a href="https://cicker.cf">cicker.cf</a></li>
 <!--  <li> <a href="https://sf36.barbu.tk">sf36.barbu.cf</a></li>  -->
 <!--  <li> <a href="https://orar.barbu.tk">orar.barbu.cf</a></li>  -->
-    <li> <a href="https://ig-formatter.barbu.tk">ig-formatter.barbu.cf</a></li>
+<!--  <li> <a href="https://ig-formatter.barbu.tk">ig-formatter.barbu.cf</a></li>  -->
   </ul>
 </li></ul>
 
