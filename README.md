@@ -47,7 +47,7 @@
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#000000">
     <li> <a href="https://pdf.barbu.tk">pdf.barbu.cf</a></li>
     <li> <a href="https://mc.barbu.tk">mc.barbu.cf</a></li>
-    <li> <a href="https://cicker.barbu.tk">cicker.barbu.cf</a></li>
+    <li> <a href="https://cicker.cf">cicker.cf</a></li>
 <!--  <li> <a href="https://sf36.barbu.tk">sf36.barbu.cf</a></li>  -->
 <!--  <li> <a href="https://orar.barbu.tk">orar.barbu.cf</a></li>  -->
     <li> <a href="https://ig-formatter.barbu.tk">ig-formatter.barbu.cf</a></li>
