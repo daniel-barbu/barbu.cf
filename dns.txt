@@ -6,6 +6,4 @@
 cicker cname 600 daniel-barbu.github.io
 ig-formatter cname 600 daniel-barbu.github.io
 mc cname 600 daniel-barbu.github.io
-orar cname 600 daniel-barbu.github.io
 pdf cname 600 daniel-barbu.github.io
-sf36 cname 600 daniel-barbu.github.io
