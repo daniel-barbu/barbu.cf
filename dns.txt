@@ -3,7 +3,6 @@
 - a 600 185.199.108.153
 - a 600 185.199.111.153
 
-cicker cname 600 daniel-barbu.github.io
 ig-formatter cname 600 daniel-barbu.github.io
 mc cname 600 daniel-barbu.github.io
 pdf cname 600 daniel-barbu.github.io
