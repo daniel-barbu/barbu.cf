@@ -41,6 +41,7 @@
     <div class="ulText" style="color:#F34B7D">C++</div>
 <!--  <li> <a href="https://github.com/daniel-barbu/proiectInfo-AdministrareSpital">proiectInfo-AdministrareSpital</a></li>  -->
 <!--  <li> <a href="https://github.com/daniel-barbu/proiectInfo-ArboreGenealogic">proiectInfo-ArboreGenealogic</a></li>  -->
+  <li> <a href="https://github.com/daniel-barbu/cnpGenerator">cnpGenerator</a></li>
   </ul>
 </li></ul>
 <ul><li> sub-domains
