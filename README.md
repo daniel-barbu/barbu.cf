@@ -6,10 +6,10 @@
 <ul><li> github repos
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#E34C26">
     <div class="ulText" style="color:#E34C26">html</div>
-    <li> <a href="https://github.com/daniel-barbu/barbu.cf">barbu.cf</a></li>
+    <li> <a href="https://github.com/daniel-barbu/barbu.tk">barbu.tk</a></li>
     <li> <a href="https://github.com/daniel-barbu/pdf-printer">pdf-printer</a></li>
     <li> <a href="https://github.com/daniel-barbu/mcdonalds-fakeApp">mcdonalds-fakeApp</a></li>
-    <li> <a href="https://github.com/daniel-barbu/cicker.cf">cicker.cf</a></li>
+    <li> <a href="https://github.com/daniel-barbu/cicker.tk">cicker.tk</a></li>
 <!--  <li> <a href="https://github.com/daniel-barbu/zoom-calendar">zoom-calendar11R2</a></li>  -->
   </ul>
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#F1E05A">
@@ -45,12 +45,12 @@
 </li></ul>
 <ul><li> sub-domains
   <ul class="ulBorder" style="/*transform:skew(-10deg);*/ border-color:#000000">
-    <li> <a href="https://pdf.barbu.cf">pdf.barbu.cf</a></li>
-    <li> <a href="https://mc.barbu.cf">mc.barbu.cf</a></li>
-    <li> <a href="https://cicker.barbu.cf">cicker.barbu.cf</a></li>
-<!--  <li> <a href="https://sf36.barbu.cf">sf36.barbu.cf</a></li>  -->
-<!--  <li> <a href="https://orar.barbu.cf">orar.barbu.cf</a></li>  -->
-    <li> <a href="https://ig-formatter.barbu.cf">ig-formatter.barbu.cf</a></li>
+    <li> <a href="https://pdf.barbu.tk">pdf.barbu.tk</a></li>
+    <li> <a href="https://mc.barbu.tk">mc.barbu.tk</a></li>
+    <li> <a href="https://cicker.barbu.tk">cicker.barbu.tk</a></li>
+<!--  <li> <a href="https://sf36.barbu.tk">sf36.barbu.tk</a></li>  -->
+<!--  <li> <a href="https://orar.barbu.tk">orar.barbu.tk</a></li>  -->
+    <li> <a href="https://ig-formatter.barbu.tk">ig-formatter.barbu.tk</a></li>
   </ul>
 </li></ul>
 
@@ -64,7 +64,7 @@
 </style>
 <script>
   document.getElementsByTagName("h1")[0].remove();
-  document.getElementsByTagName("title")[0].textContent="barbu.cf";
+  document.getElementsByTagName("title")[0].textContent="barbu.tk";
   var link=document.createElement("link"); link.rel="icon"; link.href="/img/favicon.png?"; document.getElementsByTagName("head")[0].appendChild(link);
   //document.getElementsByClassName("ulBorder")[1].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth*1.2+"px";
   document.getElementsByClassName("ulBorder")[0].style.width=document.getElementsByClassName("ulBorder")[1].clientWidth+"px";
